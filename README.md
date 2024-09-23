@@ -1,8 +1,1 @@
-# hello-world
-helloworld
-
-@irmtnvyt_kkir
-
-
-
-dafasfasfdsafsdf
+This repository consists of projects related to data science
